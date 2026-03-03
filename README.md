@@ -10,9 +10,6 @@
 
 - Currently designing and building scalable systems at **SIMStation** in Vienna.
 - I enjoy turning complex problems into clear, reliable architectures.
-- Portfolio: [moritzreis.dev](https://moritzreis.dev/)
-
-
 
 ## Current Projects
 
